@@ -1,3 +1,3 @@
 module.exports = {
-    url: "mongodb+srv://kianakaslana:098706@grace.abgcug5.mongodb.net/test"
+    url: "mongodb+srv://****:*****@grace.abgcug5.mongodb.net/test"
 };
